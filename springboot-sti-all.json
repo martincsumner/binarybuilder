@@ -34,10 +34,10 @@
             "source": {
                "type": "Git",
                "git": {
-                  "uri": "https://github.com/martincsumner/builderimage.git",
+                  "uri": "https://github.com/martincsumner/binarybuilder.git",
                   "ref": "master"
                },
-               "contextDir": "spring-boot/springboot-sti"
+             
             },
             "strategy": {
                "type": "Docker",
