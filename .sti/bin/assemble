@@ -7,11 +7,11 @@
 #	https://github.com/openshift/source-to-image/blob/master/docs/builder_image.md
 #
 
-if [ "$1" = "-h" ]; then
+#if [ "$1" = "-h" ]; then
 	# If the 'springboot-sti' assemble script is executed with '-h' flag,
 	# print the usage.
-	exec /usr/local/sti/usage
-fi
+#	exec /usr/local/sti/usage
+#fi
 
 # # Restore artifacts from the previous build (if they exist).
 # #
